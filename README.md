@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krayborn
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning front end development
+- 💞️ I’m looking to gain insight on software engineering and jobs as i am very new to the field
+- 📫 How to reach me keahshaamari@gmail.com
